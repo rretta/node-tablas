@@ -1,1 +1,1 @@
-simple tables
+simple tables.
